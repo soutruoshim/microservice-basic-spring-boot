@@ -1,4 +1,4 @@
-package client;
+package com.srhdp.departmentservice.client;
 
 import com.srhdp.departmentservice.model.Employee;
 import org.springframework.web.bind.annotation.GetMapping;
